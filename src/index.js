@@ -25,7 +25,9 @@ const fs = require('fs');
         });
     });
 
-  
+    
+    fs.writeFileSync('./src/output.json', JSON.stringify(products, null, 2));
+
     console.log('Produtos encontrados:', products);
 
     await browser.close();
