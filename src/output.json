@@ -1,23 +1,18 @@
 [
   {
+    "nome": "Whisky Johnnie Walker Blonde 750ml",
+    "preco": "R$ 119,90",
+    "link": "https://mercado.carrefour.com.br/whisky-johnnie-walker-blonde-750ml-6908608/p"
+  },
+  {
     "nome": "Whisky Old Parr 750ml",
     "preco": "R$ 143,90",
     "link": "https://mercado.carrefour.com.br/whisky-old-parr-750ml-8603278/p"
   },
   {
-    "nome": "Gin Tanqueray London Dry 750ml",
-    "preco": "R$ 124,90",
-    "link": "https://mercado.carrefour.com.br/gin-tanqueray-london-dry-750ml-160210/p"
-  },
-  {
-    "nome": "Whisky Chivas Regal Escocês 12 Anos 1 L",
-    "preco": "R$ 174,90",
-    "link": "https://mercado.carrefour.com.br/whisky-chivas-regal-escoces-12-anos-1-l-7395981/p"
-  },
-  {
-    "nome": "Whisky Johnnie Walker Red Label 750ml",
-    "preco": "R$ 82,90",
-    "link": "https://mercado.carrefour.com.br/whisky-johnnie-walker-red-label-750ml-8603294/p"
+    "nome": "Whisky Buchanan's Deluxe 12 Anos 1L",
+    "preco": "R$ 214,90",
+    "link": "https://mercado.carrefour.com.br/whisky-buchanans-deluxe-12-anos-1l-164666/p"
   },
   {
     "nome": "Guaraná Antarctica Garrafa 200 ml",
@@ -35,54 +30,9 @@
     "link": "https://mercado.carrefour.com.br/cerveja-lager-premium-puro-malte-amstel-lata-350ml-3180107/p"
   },
   {
-    "nome": "Aperitivo Bitter Campari 748ml",
-    "preco": "R$ 58,89",
-    "link": "https://mercado.carrefour.com.br/aperitivo-bitter-campari-748ml-3361586/p"
-  },
-  {
-    "nome": "Refrigerante h2oh Limão Garrafa 1,5L",
-    "preco": "R$ 7,99",
-    "link": "https://mercado.carrefour.com.br/refrigerante-h2oh-limao-garrafa-15l-7694059/p"
-  },
-  {
-    "nome": "Whisky Johnnie Walker Red Label 500 ml",
-    "preco": "R$ 54,90",
-    "link": "https://mercado.carrefour.com.br/whisky-johnnie-walker-red-label-500-ml-9443827/p"
-  },
-  {
     "nome": "Coca-Cola Lata 220 ml",
     "preco": "R$ 2,99",
     "link": "https://mercado.carrefour.com.br/cocacola-lata-220-ml-9972935/p"
-  },
-  {
-    "nome": "Vodka Smirnoff 998ml",
-    "preco": "R$ 39,90",
-    "link": "https://mercado.carrefour.com.br/vodka-smirnoff-998ml-7006535/p"
-  },
-  {
-    "nome": "Whisky Johnnie Walker Red Label 1L",
-    "preco": "R$ 109,90",
-    "link": "https://mercado.carrefour.com.br/whisky-johnnie-walker-red-label-1l-184527/p"
-  },
-  {
-    "nome": "Whisky Buchanan's Deluxe 12 Anos 750ml",
-    "preco": "R$ 171,90",
-    "link": "https://mercado.carrefour.com.br/whisky-buchanans-deluxe-12-anos-750ml-6687598/p"
-  },
-  {
-    "nome": "Whisky Jack Daniel's Tennessee Fire 1 L",
-    "preco": "R$ 169,90",
-    "link": "https://mercado.carrefour.com.br/whisky-jack-daniels-tennessee-fire-1-l-5107083/p"
-  },
-  {
-    "nome": "Whisky Ballantine's Finest Blended Escocês – 750 ml",
-    "preco": "R$ 84,90",
-    "link": "https://mercado.carrefour.com.br/whisky-ballantines-finest-blended-escoces-750-ml-4670256/p"
-  },
-  {
-    "nome": "Bebida Láctea Zero Lactose Morango YoPRO 15g Shake 250 ml",
-    "preco": "R$ 8,09",
-    "link": "https://mercado.carrefour.com.br/bebida-lactea-zero-lactose-morango-yopro-15g-shake-250-ml-6536948/p"
   },
   {
     "nome": "Bebida Láctea Cappuccino Zero Lactose Yopro Energy Boost 250ml",
@@ -90,13 +40,363 @@
     "link": "https://mercado.carrefour.com.br/bebida-lactea-cappuccino-zero-lactose-yopro-energy-boost-250ml-3207846/p"
   },
   {
-    "nome": "Refrigerante Guaraná Antarctica 1,5L Garrafa",
+    "nome": "Bebida Láctea Zero Lactose Morango YoPRO 15g Shake 250 ml",
+    "preco": "R$ 8,49",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-zero-lactose-morango-yopro-15g-shake-250-ml-6536948/p"
+  },
+  {
+    "nome": "Bebida Láctea Café Expresso Zero Lactose Yopro Energy Boost 250ml",
+    "preco": "R$ 7,15",
+    "link": "https://mercado.carrefour.com.br/bebida-lactea-cafe-expresso-zero-lactose-yopro-energy-boost-250ml-3207854/p"
+  },
+  {
+    "nome": "Jack Daniels & Mclaren Ed. Lim 700ml",
+    "preco": "R$ 199,90",
+    "link": "https://mercado.carrefour.com.br/jack-daniels-e-mclaren-ed-lim-700ml-3251730/p"
+  },
+  {
+    "nome": "Whisky Johnnie Walker Red Label 1L",
+    "preco": "R$ 109,90",
+    "link": "https://mercado.carrefour.com.br/whisky-johnnie-walker-red-label-1l-184527/p"
+  },
+  {
+    "nome": "Whisky Johnnie Walker Red Label 750ml",
+    "preco": "R$ 82,90",
+    "link": "https://mercado.carrefour.com.br/whisky-johnnie-walker-red-label-750ml-8603294/p"
+  },
+  {
+    "nome": "Vinho Tinto Casa Crebar 2018 Cabernet Sauvignon 750ml",
+    "preco": "R$ 28,90",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-casa-crebar-2018-cabernet-sauvignon-750ml-5477883/p"
+  },
+  {
+    "nome": "Suco Del Valle Néctar Uva 1L",
+    "preco": "R$ 8,99",
+    "link": "https://mercado.carrefour.com.br/suco-del-valle-nectar-uva-1l-4308913/p"
+  },
+  {
+    "nome": "Isotônico Gatorade Morango com Maracujá 500ml Garrafa",
+    "preco": "R$ 5,49",
+    "link": "https://mercado.carrefour.com.br/isotonico-gatorade-morango-com-maracuja-500ml-garrafa-7216629/p"
+  },
+  {
+    "nome": "Gin Gordon's London Dry 750ml",
+    "preco": "R$ 79,90",
+    "link": "https://mercado.carrefour.com.br/gin-gordons-london-dry-750ml-9599002/p"
+  },
+  {
+    "nome": "Água de Coco Carrefour 1 Litro",
+    "preco": "R$ 12,99",
+    "link": "https://mercado.carrefour.com.br/agua-de-coco-carrefour-1-litro-5844266/p"
+  },
+  {
+    "nome": "Gin Gordon's Pink 700ml",
+    "preco": "R$ 79,90",
+    "link": "https://mercado.carrefour.com.br/gin-gordons-pink-700ml-5628466/p"
+  },
+  {
+    "nome": "Whisky Old Parr 1L",
+    "preco": "R$ 179,90",
+    "link": "https://mercado.carrefour.com.br/whisky-old-parr-1l-511196/p"
+  },
+  {
+    "nome": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 1,5L",
     "preco": "R$ 6,59",
-    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-15l-garrafa-7525060/p"
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-sem-acucar-garrafa-15l-7525079/p"
+  },
+  {
+    "nome": "Gin Tanqueray London Dry 750ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-london-dry-750ml-160210/p"
+  },
+  {
+    "nome": "Gin Tanqueray Royale Dark Berry 700ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-royale-dark-berry-700ml-6726372/p"
+  },
+  {
+    "nome": "Coca-Cola Sem Açúcar Pet 1 L",
+    "preco": "R$ 6,79",
+    "link": "https://mercado.carrefour.com.br/coca-cola-zero-acucar-1-litro/p"
+  },
+  {
+    "nome": "Cerveja Lager Premium Puro Malte Stella Artois 330ml",
+    "preco": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-lager-premium-puro-malte-stella-artois-330ml-6242740/p"
   },
   {
     "nome": "Refrigerante Guaraná Antarctica Sem Açúcar Lata 350ML",
     "preco": "R$ 3,49",
     "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-sem-acucar-lata-350ml-2067811/p"
+  },
+  {
+    "nome": "Refrigerante Coca-Cola Sem Açúcar Pet 200 ml",
+    "preco": "R$ 1,79",
+    "link": "https://mercado.carrefour.com.br/refrigerante-cocacola-sem-acucar-pet-200-ml-5235790/p"
+  },
+  {
+    "nome": "Água Mineral com Gás Crystal 500 ml",
+    "preco": "R$ 2,79",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-crystal-500-ml-8812110/p"
+  },
+  {
+    "nome": "Água Mineral sem Gás Nestlé Pureza Vital 1,5 Litros",
+    "preco": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-nestle-pureza-vital-15-litros-7026099/p"
+  },
+  {
+    "nome": "Vodka Smirnoff 600ml",
+    "preco": "R$ 26,89",
+    "link": "https://mercado.carrefour.com.br/vodka-smirnoff-600ml-9443851/p"
+  },
+  {
+    "nome": "Gin Tanqueray Sevilla 700ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-sevilla-700ml-5604486/p"
+  },
+  {
+    "nome": "Refrigerante Coca-Cola Original Pet 200 ml",
+    "preco": "R$ 1,99",
+    "link": "https://mercado.carrefour.com.br/coca-cola-200ml-9882375/p"
+  },
+  {
+    "nome": "Cerveja Brahma Chopp Pilsen 269ml Lata Pack Caixa 15",
+    "preco": "R$ 38,85",
+    "link": "https://mercado.carrefour.com.br/cerveja-brahma-chopp-pilsen-269ml-lata-pack-caixa-15-9003460/p"
+  },
+  {
+    "nome": "Ice 51 Morango e Laranja 275 ml",
+    "preco": "R$ 6,99",
+    "link": "https://mercado.carrefour.com.br/ice-51-morango-e-laranja-275-ml-5210283/p"
+  },
+  {
+    "nome": "Vinho Tinto Seco Trivento Reserve Malbec Mendoza 750 ml",
+    "preco": "R$ 66,25",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-seco-trivento-reserve-malbec-mendoza-750-ml-8839557/p"
+  },
+  {
+    "nome": "Suco Concentrado de Maracujá Maguary 500ml",
+    "preco": "R$ 10,99",
+    "link": "https://mercado.carrefour.com.br/suco-concentrado-de-maracuja-maguary-500ml-184802/p"
+  },
+  {
+    "nome": "Suco de Laranja Integral Refrigerado Natural One 100% Suco 1,5 Litros",
+    "preco": "R$ 21,99",
+    "link": "https://mercado.carrefour.com.br/suco-de-laranja-integral-refrigerado-natural-one-100-suco-15-litros-9977023/p"
+  },
+  {
+    "nome": "Refrigerante Pepsi Black Garrafa 2L",
+    "preco": "R$ 8,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-pepsi-black-garrafa-2l-9767339/p"
+  },
+  {
+    "nome": "Cerveja de Trigo Hoegaarden Lata 269ml",
+    "preco": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-de-trigo-hoegaarden-lata-269ml-641863w-6418635/p"
+  },
+  {
+    "nome": "Cerveja Eisenbahn Pilsen Puro Malte Long Neck 355ml",
+    "preco": "R$ 5,69",
+    "link": "https://mercado.carrefour.com.br/cerveja-eisenbahn-pilsen-puro-malte-long-neck-355ml-4792734/p"
+  },
+  {
+    "nome": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 1,5L",
+    "preco": "R$ 6,59",
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-sem-acucar-garrafa-15l-7525079/p"
+  },
+  {
+    "nome": "Gin Tanqueray London Dry 750ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-london-dry-750ml-160210/p"
+  },
+  {
+    "nome": "Gin Tanqueray Royale Dark Berry 700ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-royale-dark-berry-700ml-6726372/p"
+  },
+  {
+    "nome": "Coca-Cola Sem Açúcar Pet 1 L",
+    "preco": "R$ 6,79",
+    "link": "https://mercado.carrefour.com.br/coca-cola-zero-acucar-1-litro/p"
+  },
+  {
+    "nome": "Cerveja Lager Premium Puro Malte Stella Artois 330ml",
+    "preco": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-lager-premium-puro-malte-stella-artois-330ml-6242740/p"
+  },
+  {
+    "nome": "Refrigerante Guaraná Antarctica Sem Açúcar Lata 350ML",
+    "preco": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-sem-acucar-lata-350ml-2067811/p"
+  },
+  {
+    "nome": "Refrigerante Coca-Cola Sem Açúcar Pet 200 ml",
+    "preco": "R$ 1,79",
+    "link": "https://mercado.carrefour.com.br/refrigerante-cocacola-sem-acucar-pet-200-ml-5235790/p"
+  },
+  {
+    "nome": "Água Mineral com Gás Crystal 500 ml",
+    "preco": "R$ 2,79",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-crystal-500-ml-8812110/p"
+  },
+  {
+    "nome": "Água Mineral sem Gás Nestlé Pureza Vital 1,5 Litros",
+    "preco": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-nestle-pureza-vital-15-litros-7026099/p"
+  },
+  {
+    "nome": "Vodka Smirnoff 600ml",
+    "preco": "R$ 26,89",
+    "link": "https://mercado.carrefour.com.br/vodka-smirnoff-600ml-9443851/p"
+  },
+  {
+    "nome": "Gin Tanqueray Sevilla 700ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-sevilla-700ml-5604486/p"
+  },
+  {
+    "nome": "Refrigerante Coca-Cola Original Pet 200 ml",
+    "preco": "R$ 1,99",
+    "link": "https://mercado.carrefour.com.br/coca-cola-200ml-9882375/p"
+  },
+  {
+    "nome": "Cerveja Brahma Chopp Pilsen 269ml Lata Pack Caixa 15",
+    "preco": "R$ 38,85",
+    "link": "https://mercado.carrefour.com.br/cerveja-brahma-chopp-pilsen-269ml-lata-pack-caixa-15-9003460/p"
+  },
+  {
+    "nome": "Ice 51 Morango e Laranja 275 ml",
+    "preco": "R$ 6,99",
+    "link": "https://mercado.carrefour.com.br/ice-51-morango-e-laranja-275-ml-5210283/p"
+  },
+  {
+    "nome": "Vinho Tinto Seco Trivento Reserve Malbec Mendoza 750 ml",
+    "preco": "R$ 66,25",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-seco-trivento-reserve-malbec-mendoza-750-ml-8839557/p"
+  },
+  {
+    "nome": "Suco Concentrado de Maracujá Maguary 500ml",
+    "preco": "R$ 10,99",
+    "link": "https://mercado.carrefour.com.br/suco-concentrado-de-maracuja-maguary-500ml-184802/p"
+  },
+  {
+    "nome": "Suco de Laranja Integral Refrigerado Natural One 100% Suco 1,5 Litros",
+    "preco": "R$ 21,99",
+    "link": "https://mercado.carrefour.com.br/suco-de-laranja-integral-refrigerado-natural-one-100-suco-15-litros-9977023/p"
+  },
+  {
+    "nome": "Refrigerante Pepsi Black Garrafa 2L",
+    "preco": "R$ 8,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-pepsi-black-garrafa-2l-9767339/p"
+  },
+  {
+    "nome": "Cerveja de Trigo Hoegaarden Lata 269ml",
+    "preco": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-de-trigo-hoegaarden-lata-269ml-641863w-6418635/p"
+  },
+  {
+    "nome": "Cerveja Eisenbahn Pilsen Puro Malte Long Neck 355ml",
+    "preco": "R$ 5,69",
+    "link": "https://mercado.carrefour.com.br/cerveja-eisenbahn-pilsen-puro-malte-long-neck-355ml-4792734/p"
+  },
+  {
+    "nome": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 1,5L",
+    "preco": "R$ 6,59",
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-sem-acucar-garrafa-15l-7525079/p"
+  },
+  {
+    "nome": "Gin Tanqueray London Dry 750ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-london-dry-750ml-160210/p"
+  },
+  {
+    "nome": "Gin Tanqueray Royale Dark Berry 700ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-royale-dark-berry-700ml-6726372/p"
+  },
+  {
+    "nome": "Coca-Cola Sem Açúcar Pet 1 L",
+    "preco": "R$ 6,79",
+    "link": "https://mercado.carrefour.com.br/coca-cola-zero-acucar-1-litro/p"
+  },
+  {
+    "nome": "Cerveja Lager Premium Puro Malte Stella Artois 330ml",
+    "preco": "R$ 5,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-lager-premium-puro-malte-stella-artois-330ml-6242740/p"
+  },
+  {
+    "nome": "Refrigerante Guaraná Antarctica Sem Açúcar Lata 350ML",
+    "preco": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-guarana-antarctica-sem-acucar-lata-350ml-2067811/p"
+  },
+  {
+    "nome": "Refrigerante Coca-Cola Sem Açúcar Pet 200 ml",
+    "preco": "R$ 1,79",
+    "link": "https://mercado.carrefour.com.br/refrigerante-cocacola-sem-acucar-pet-200-ml-5235790/p"
+  },
+  {
+    "nome": "Água Mineral com Gás Crystal 500 ml",
+    "preco": "R$ 2,79",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-com-gas-crystal-500-ml-8812110/p"
+  },
+  {
+    "nome": "Água Mineral sem Gás Nestlé Pureza Vital 1,5 Litros",
+    "preco": "R$ 3,49",
+    "link": "https://mercado.carrefour.com.br/agua-mineral-sem-gas-nestle-pureza-vital-15-litros-7026099/p"
+  },
+  {
+    "nome": "Vodka Smirnoff 600ml",
+    "preco": "R$ 26,89",
+    "link": "https://mercado.carrefour.com.br/vodka-smirnoff-600ml-9443851/p"
+  },
+  {
+    "nome": "Gin Tanqueray Sevilla 700ml",
+    "preco": "R$ 124,90",
+    "link": "https://mercado.carrefour.com.br/gin-tanqueray-sevilla-700ml-5604486/p"
+  },
+  {
+    "nome": "Refrigerante Coca-Cola Original Pet 200 ml",
+    "preco": "R$ 1,99",
+    "link": "https://mercado.carrefour.com.br/coca-cola-200ml-9882375/p"
+  },
+  {
+    "nome": "Cerveja Brahma Chopp Pilsen 269ml Lata Pack Caixa 15",
+    "preco": "R$ 38,85",
+    "link": "https://mercado.carrefour.com.br/cerveja-brahma-chopp-pilsen-269ml-lata-pack-caixa-15-9003460/p"
+  },
+  {
+    "nome": "Ice 51 Morango e Laranja 275 ml",
+    "preco": "R$ 6,99",
+    "link": "https://mercado.carrefour.com.br/ice-51-morango-e-laranja-275-ml-5210283/p"
+  },
+  {
+    "nome": "Vinho Tinto Seco Trivento Reserve Malbec Mendoza 750 ml",
+    "preco": "R$ 66,25",
+    "link": "https://mercado.carrefour.com.br/vinho-tinto-seco-trivento-reserve-malbec-mendoza-750-ml-8839557/p"
+  },
+  {
+    "nome": "Suco Concentrado de Maracujá Maguary 500ml",
+    "preco": "R$ 10,99",
+    "link": "https://mercado.carrefour.com.br/suco-concentrado-de-maracuja-maguary-500ml-184802/p"
+  },
+  {
+    "nome": "Suco de Laranja Integral Refrigerado Natural One 100% Suco 1,5 Litros",
+    "preco": "R$ 21,99",
+    "link": "https://mercado.carrefour.com.br/suco-de-laranja-integral-refrigerado-natural-one-100-suco-15-litros-9977023/p"
+  },
+  {
+    "nome": "Refrigerante Pepsi Black Garrafa 2L",
+    "preco": "R$ 8,49",
+    "link": "https://mercado.carrefour.com.br/refrigerante-pepsi-black-garrafa-2l-9767339/p"
+  },
+  {
+    "nome": "Cerveja de Trigo Hoegaarden Lata 269ml",
+    "preco": "R$ 4,99",
+    "link": "https://mercado.carrefour.com.br/cerveja-de-trigo-hoegaarden-lata-269ml-641863w-6418635/p"
+  },
+  {
+    "nome": "Cerveja Eisenbahn Pilsen Puro Malte Long Neck 355ml",
+    "preco": "R$ 5,69",
+    "link": "https://mercado.carrefour.com.br/cerveja-eisenbahn-pilsen-puro-malte-long-neck-355ml-4792734/p"
   }
 ]
